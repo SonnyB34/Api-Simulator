@@ -1,4 +1,4 @@
-import { fetchProductCatalog, fetchSalesReport, fetchProductReviews, } from "./apiSimulator.js";
+import { fetchProductCatalog, fetchSalesReport, fetchProductReviews, } from "./Simulator/apiSimulator.js";
 
 
 fetchProductCatalog()
